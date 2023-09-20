@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "adwaita",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/david-swift/Adwaita",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0351e67493a0fc71e789bd5cc3480232d49925a3"
+      }
+    },
+    {
+      "identity" : "swiftgui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/david-swift/SwiftGui",
+      "state" : {
+        "branch" : "main",
+        "revision" : "053c7c108146c653564e739133089b2cb8f5f3a6"
+      }
+    }
+  ],
+  "version" : 2
+}
